@@ -40,6 +40,11 @@ $ cd rails c
 
 * [Danilo Zagarcanin ](https://github.com/danilozag1992)[(Email)](mailto:danilozagarcanin@gmail.com)
 
+## Contact
+[Email](mailto:danilozagarcanin@gmail.com)
+[Linkedin](https://www.linkedin.com/in/danilo-zagarcanin-88169b185/)
+[Twitter](https://twitter.com/danilo96061514)
+
 ## Contributing
 
 1. Fork it (https://github.com/danilozag1992/PRIVATE-EVENTS//fork)
