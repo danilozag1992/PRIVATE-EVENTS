@@ -9,7 +9,7 @@ The project is part of a series of projects to be completed by students of [Micr
 
 - Ruby 
 - Rails 
-- Rspec
+- RSpec
 
 ## Usage
 
